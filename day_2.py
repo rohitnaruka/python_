@@ -6,3 +6,6 @@ def find_even_numbers(lst):
     return evens
 
 
+def length_of_dictionary(ages):
+    length = len(ages)
+    return length
