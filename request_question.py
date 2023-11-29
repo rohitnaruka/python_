@@ -48,3 +48,7 @@ import requests
 #     print(my_data)
 # print(repos(username='rohitnaruka',repo_name='python'))
 
+
+import pandas as pd
+data=pd.read_csv("D:\GitHub\python_")
+print(data)
